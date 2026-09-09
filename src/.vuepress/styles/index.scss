@@ -1,1 +1,11 @@
 // place your custom styles here
+
+// Logo 为黑底方图，导航栏略放大以看清品牌字标
+.vp-nav-logo {
+  height: 2rem;
+  border-radius: 0.25rem;
+}
+
+.vp-hero-image {
+  border-radius: 0.75rem;
+}

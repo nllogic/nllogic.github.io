@@ -1,24 +1,22 @@
 ---
 home: true
 portfolio: true
-title: 档案主页
+title: 关于
 icon: house
-welcome: 👋 你好，我是
-name: 江户川柯南
-avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
+welcome: 你好，这里是
+name: 下一行逻辑
+avatar: /assets/image/logo.png
 
 titles:
-  - 天才少年侦探
-  - 小兰的青梅竹马
-  - 黑衣组织的最大对手
+  - Next Line Logic
+  - 写下一段思考
+  - 推演下一行逻辑
 
 footer: false
 ---
 
 ## 介绍
 
-这是一个档案主页的案例。
+**下一行逻辑**（nllogic）关注如何把模糊问题拆成可推演的下一步。
 
-要使用此布局，你应该在页面 Frontmatter 中设置 `home: true` 和 `portfolio: true`。
-
-相关配置文档请见 [档案主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html#档案类型主页)。
+本站基于 VuePress Theme Hope 搭建，内容会逐步替换为真实笔记与文档。

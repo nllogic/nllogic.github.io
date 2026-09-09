@@ -117,9 +117,9 @@ const MyComponent = defineComponent({
 - 一个卡片:
 
   ```component VPCard
-  title: Mr.Hope
-  desc: Where there is light, there is hope
-  logo: https://mister-hope.com/logo.svg
-  link: https://mister-hope.com
+  title: 下一行逻辑
+  desc: Next Line Logic
+  logo: /assets/image/logo.png
+  link: https://nllogic.github.io
   background: rgba(253, 230, 138, 0.15)
   ```
